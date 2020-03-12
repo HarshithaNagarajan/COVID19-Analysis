@@ -10,12 +10,13 @@ Data source: https://www.kaggle.com/imdevskp/corona-virus-report
 - Data
     - Contains the data set
     - .csv format 
-    - **covid_19_clean_complete**
+        - **covid_19_clean_complete**
 - Jupyter Notebooks
     - Contains notebooks used
         - **COVID19_Analysis.ipynb**
 - Plots
-    - Visulaisation of data, contains .png files of plots
+    - Visulaisation of data
+    - Contains .png files of plots
 - README
     
  ##### Directories to include

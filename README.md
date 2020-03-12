@@ -7,9 +7,13 @@ This is a simple analysis on a Corona virus dataset.
     Harshitha Nagarajan
 ## Repo structure
     Data
-    - Contains the data set, .csv format : covid_19_clean_complete
+    - Contains the data set, .csv format : *covid_19_clean_complete*
     Jupyter Notebooks
-    - COVID19_Analysis.ipynb
+    - Contains notebooks used: *COVID19_Analysis.ipynb*
     Plots
-    - Visulaisation of data
+    - Visulaisation of data, contains .png files of plots
     README
+    
+ #### Directories to include
+ - src_ML 
+    To predict death toll for the future, if conditions remain unchanged.

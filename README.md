@@ -7,13 +7,13 @@ Data source: https://www.kaggle.com/imdevskp/corona-virus-report
 ### Author 
     Harshitha Nagarajan
 ### Repository structure
-    Data
+- Data
     - Contains the data set, .csv format : *covid_19_clean_complete*
-    Jupyter Notebooks
+- Jupyter Notebooks
     - Contains notebooks used: *COVID19_Analysis.ipynb*
-    Plots
+- Plots
     - Visulaisation of data, contains .png files of plots
-    README
+- README
     
  ##### Directories to include
  - src_ML 

@@ -15,7 +15,7 @@ Data source: https://www.kaggle.com/imdevskp/corona-virus-report
     - Contains notebooks used
         - **COVID19_Analysis.ipynb**
 - Plots
-    - Visulaisation of data
+    - Visualization of data
     - Contains .png files of plots
 - README
     
